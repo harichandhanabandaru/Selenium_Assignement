@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="All Test Suite">
+    <test verbose="2" preserve-order="true"
+          name="/home/haricb/Documents/bootcamp-73-rampcard/backend/Selenium/src/main/java/org/qaselenium/TestNGTest">
+        <classes>
+            <class name="org.qaselenium.TestNGTest.TestingTestNg">
+                <methods>
+                    <include name="Demo"/>
+                </methods>
+            </class>
+        </classes>
+    </test>
+</suite>
