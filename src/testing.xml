@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<suite name="Personal loan">
+    <test name="Personal loan">
+        <classes>
+            <class name="TestNGTest.TestingTestNg"/>
+
+        </classes>
+    </test>
+</suite>
